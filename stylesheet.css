@@ -1,0 +1,118 @@
+body {
+  margin: 0;
+  background-color: #fcffa6;
+  text-align: center;
+  font-family: "Merriweather", serif;
+}
+
+h1 {
+  font-size: 50px;
+  margin-top: 0;
+  font-family: "Sacramento", cursive;
+  color: #cab8ff;
+}
+
+h2 {
+  font-weight: normal;
+  line-height: 2;
+  color: #fd6f96;
+  font-family: "Balsamiq Sans", cursive;
+}
+
+.middle-container {
+  margin: 100px 0 100px;
+}
+
+.profile-img {
+  width: 45%;
+  float: left;
+  margin-right: 50px;
+}
+.Profile {
+  width: 80%;
+  margin: 100px auto;
+  text-align: left;
+  color: #fd6f96;
+}
+.dotted {
+  border: dotted grey 6px;
+  border-bottom: none;
+  width: 4%;
+  margin: 100px auto;
+}
+
+.Photo-2 {
+  width: 20%;
+  float: left;
+  margin-right: 50px;
+}
+
+.intro-Jimin {
+  line-height: 2;
+  color: #fd6f96;
+}
+
+.career-img {
+  width: 30%;
+  float: right;
+  margin-right: 50px;
+}
+
+.about-career {
+  line-height: 2;
+  color: #fd6f96;
+}
+
+.Achievements-img {
+  width: 30%;
+  float: left;
+  margin-right: 50px;
+}
+
+.about-achievement {
+  line-height: 2;
+  color: #fd6f96;
+}
+
+.Phil-img {
+  width: 20%;
+  float: right;
+  margin-right: 50px;
+}
+
+.about-phil {
+  line-height: 2;
+  color: #fd6f96;
+}
+
+.Love-message {
+  width: 40%;
+  margin: 40px auto 60px;
+  color: #fd6f96;
+}
+
+.bottom-container {
+  background-color: #b5deff;
+  padding: 50px 0 20px;
+}
+
+.footer-link {
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+.footer-link:hover {
+  color: #eaf6f6;
+}
+
+.copyright {
+  color: #fd6f96;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
+
+.profile2 {
+  display: inline-block;
+}

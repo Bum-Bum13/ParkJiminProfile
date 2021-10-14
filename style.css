@@ -1,0 +1,70 @@
+body {
+  margin: 0;
+  background-color: #fcffa6;
+}
+
+.container {
+  width: 56.25rem;
+  margin: auto;
+  height: 100vh;
+  background-color: #cab8ff;
+  display: flex;
+  justify-content: center;
+  box-shadow: 1.875rem 0 1.25rem rgba(0, 0, 0, 0.2),
+    -1.875rem 0rem 1.25rem rgba(0, 0, 0, 0.2);
+}
+
+.Text {
+  width: 25rem;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
+.Park {
+  text-align: center;
+  width: 20.5rem;
+  color: #eb92be;
+  text-shadow: -0.1875rem -0.125rem 0.1875rem black;
+  font-family: "Handlee", cursive;
+  line-height: 1;
+}
+
+.Do {
+  color: #eb92be;
+  text-shadow: -3px -2px 4px #000;
+  text-align: center;
+  font-family: "Handlee", cursive;
+}
+
+.More {
+  color: #eb92be;
+  text-shadow: -3px -2px 4px #000;
+  text-align: center;
+  font-family: "Handlee", cursive;
+}
+
+.btn {
+  text-decoration: none;
+  border: solid 5px;
+  border-color: purple;
+  font-family: "Handlee", cursive;
+  padding: 15px 30px;
+  border-radius: 30px;
+  color: #000;
+}
+
+.btn:hover {
+  background-color: #eb92be;
+  color: white;
+}
+
+.Image-part {
+  width: 37.5rem;
+  height: 100vh;
+  background-image: url(Images/weverse_media_5507b09025794ea481ff157c2db610a8974.jpg);
+  background-position: center;
+  background-size: cover;
+}
